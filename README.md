@@ -3,10 +3,11 @@ Collaboration on Devops and Golang
 
 Roadmap: 
 
-- [ ] DSA Neetcode 150: July fully
+- [ ] DSA Neetcode 75: July fully
 - [ ] System Design: July fully
 - [ ] Data Engineering concepts(Spark Streaming, DWH, Kafka): July fully
 - [ ] Kubernetes: July fully
+- [ ] 
 
 ## Resources
  
