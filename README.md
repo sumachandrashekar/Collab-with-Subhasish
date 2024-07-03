@@ -3,11 +3,53 @@ Collaboration on Devops and Golang
 
 Roadmap: 
 
-- [ ] DSA Neetcode 75: July fully
-- [ ] System Design: July fully
-- [ ] Data Engineering concepts(Spark Streaming, DWH, Kafka): July fully
-- [ ] Kubernetes: July fully
-- [ ] 
+July-
+Bhai
+Go, python, advanced helm, terraform deep dive, Kubernetes, DSA
+ 
+ 
+Suma
+Go, python, Kubernetes, DSA, Terraform
+ 
+19th to 28th July - Suma OOO
+Suma will teach: python, DSA: 
+Google meet
+Saturday: 10 am to 1pm(if no tech meetups)
+Sunday: 10 - 1pm 
+Arrays(9): 6th & 7th July
+Two Pointers(5): 13th & 14th
+Sliding Window(6): 27th & 28th
+ 
+Python: 
+Suma to add notes to git repo
+Python videos from Subhasish
+ 
+Golang: 2-3 days ; projects; 
+Books: put in git repo/Google drive. 
+Projects: list of projects to be listed by Suma with timelines. 1-2 Golang projects.
+ 
+Helm: 
+Subhasish to learn and teach Suma
+ 
+Terraform: 
+1 project to be worked on-Suma
+ 
+Kubernetes:
+1-2 projects on this-Suma to put together a plan and project list.
+ 
+ 
+Behavioral questions:
+Amazon LP's 2 LPs per week
+6th and 7th July:  Customer Obsession,  Success and Scale Bring Broad Responsibility
+13th & 14th:  Ownership and  Strive to be Earth’s Best Employer
+20th & 21st:  Invent and Simplify and  Deliver Results
+27th & 28th: Are Right, A Lot and  Have Backbone; Disagree and Commit
+ 
+List of books to purchase:
+[DDIA](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - Suma has
+[Learning Go](https://www.amazon.in/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216)
+[Fluent Python](https://www.amazon.in/Fluent-Python-Effective-Programming-Grayscale/dp/9355420838)
+
 
 ## Resources
  
