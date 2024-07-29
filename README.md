@@ -33,6 +33,7 @@ Subhasish to learn and teach Suma
  
 Terraform: 
 1 project to be worked on-Suma
+2. Implement new edition: PR commentor via Terraform: https://github.com/robburger/terraform-pr-commenter/
  
 Kubernetes:
 1-2 projects on this-Suma to put together a plan and project list.
