@@ -7,10 +7,13 @@ https://www.linkedin.com/posts/ishmeetsinghsethi_solving-dsa-problems-on-leetcod
 
 
 ### Notes: 
+
 Same type of data stored. Easy to access elements using index. 
-Subarray: a range of contiguous values. Eg: For [2,3,6,1,5, 4], the subarray is [3,6,1]
+Subarray: a range of contiguous values. Eg: For [2,3,6,1,5,4], the subarray is [3,6,1]
 Subsequence: deleting some/no elements without changing order. Eg: For [2,3,6,1,5, 4], the subsequence is [3,1,5]
 
+Space complexity: O(n); n: # of elements in array
+Time Complexity: 
 Access, Insert(at end), Removal(at end): O(1)
 Search/Removal: O(n)
 Search a sorted array: O(log(n))
@@ -18,7 +21,8 @@ Search a sorted array: O(log(n))
 
 ### Techniques and edge cases:
 
-- Check for duplicates. 
+- Check for empty arrays
+- Check for duplicates inside the array. 
 - If using index, do not go out of bounds
 - Be careful about slicing and concatenation(Takes O(n) time)
 
@@ -38,6 +42,7 @@ Techniques:
 - Pre-computation
 - Index as a hash key
 - Traversing the array more than once
+- Hashset
 
 
 #### Leetcode Problems and Solutions:

@@ -163,7 +163,8 @@ Amazon writing
 - [ ] [Never Split The Difference - Negotiate as if your life depended on it, Chris Voss](https://www.amazon.in/Never-Split-Difference-Negotiating-Depended/dp/1847941494/ref=pd_sbs_d_sccl_3_32/258-6713969-7141632?pd_rd_w=rdTSR&content-id=amzn1.sym.a9e12e68-4e49-43d0-a6b4-fd1619ccac52&pf_rd_p=a9e12e68-4e49-43d0-a6b4-fd1619ccac52&pf_rd_r=11BVRBEC9BKPD02K9C2K&pd_rd_wg=Or6C1&pd_rd_r=5874edec-0e43-4483-b3be-f975ee45d35c&pd_rd_i=1847941494&psc=1)
 - [ ] [High Growth Handbook- Scaling startups from 10 to 10,000, Elad Gil](https://www.amazon.in/High-Growth-Handbook-Elad-Gil/dp/1732265100/ref=pd_sbs_d_sccl_3_7/258-6713969-7141632?pd_rd_w=CSA1N&content-id=amzn1.sym.a9e12e68-4e49-43d0-a6b4-fd1619ccac52&pf_rd_p=a9e12e68-4e49-43d0-a6b4-fd1619ccac52&pf_rd_r=M1RG3F5FGSVW3NPW1RMN&pd_rd_wg=WXTFF&pd_rd_r=aa15fda8-cc97-452f-b6de-2d02136804a4&pd_rd_i=1732265100&psc=1)
  
- 
+
+### Negotiation tips: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
  
 ### Groups to join:
  
